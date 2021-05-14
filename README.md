@@ -8,4 +8,3 @@ Todo o código utilizado para fazer as análises e os gráficos presentes no not
 # Tecnologias
 - Python 3
 - Biblioteca Pandas
-- Google Colab
